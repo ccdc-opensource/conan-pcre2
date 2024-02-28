@@ -10,6 +10,6 @@ extends:
   template: third-party-library-all-platforms-from-conan-center.yml@templates
   parameters:
     package: pcre2
-    package_version: 10.42
+    package_version: 10.40
     source_repository: public-conan-center
     destination_repository: ccdc-3rdparty-conan
